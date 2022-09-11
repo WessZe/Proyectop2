@@ -15,14 +15,14 @@ public class main {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        
-        
-        
-        
+
+        cambiarContraseña cambio = new cambiarContraseña();
+        cambio.setVisible(true);
+
         ///Prueba de aporte a repositorio
-        
+
         //segunda prueba commit para el github
-        
+
     }
-    
+
 }
