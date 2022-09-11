@@ -15,19 +15,11 @@ public class main {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-<<<<<<< HEAD
-cambiarContraseña cambio = new cambiarContraseña();
-cambio.setVisible(true);
 
+        cambiarContraseña cambio = new cambiarContraseña();
+        cambio.setVisible(true);
 
-=======
-        
-        
-        
-        
         ///Prueba de aporte a repositorio
-        
->>>>>>> 29a3352ed43810e8a50521285339ac9dd9bb29ca
     }
-    
+
 }
