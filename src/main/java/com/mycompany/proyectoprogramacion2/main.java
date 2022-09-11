@@ -21,7 +21,7 @@ public class main {
         
         ///Prueba de aporte a repositorio
         
-        //segunda prueba commit
+        //segunda prueba commit para el github
         
     }
     
